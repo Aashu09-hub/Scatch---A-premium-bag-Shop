@@ -21,6 +21,7 @@
 | Area       | Technology              |
 |------------|--------------------------|
 | UI Design  | Figma                   |
+| Templating | EJS (Embedded JavaScript Templates) |
 | Frontend   | React.js, JavaScript, Tailwind CSS |
 | Backend    | Node.js, Express.js     |
 | Database   |  MongoDB  |
@@ -30,12 +31,12 @@
 
 ## ✨ Features
 
-- 👜 Browse premium bags with a clean UI
+- 👜 Display of premium bag products using EJS templates
 - 🔍 Product listing with filter-ready layout
 - 📱 Fully responsive across all screen sizes
 - ⚡ Fast, modern React frontend using Tailwind CSS
 - 🔐 Secure backend API with Express & Node.js
-- 🛒 *(Optional)* Add to Cart & Checkout flow
+- 🛒 Add to Cart & Checkout functionality
 - 🔌 API-ready for future payment & auth integration
 
 ---
