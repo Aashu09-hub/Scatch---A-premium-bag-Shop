@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+*.log
+dist/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Ignore all .env files
+.env*
